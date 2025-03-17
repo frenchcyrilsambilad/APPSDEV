@@ -1,0 +1,10 @@
+D:\APPSDEV\SambiladMidtermSeatwork\SambiladMidtermSeatwork\bin\Debug\SambiladMidtermSeatwork.exe.config
+D:\APPSDEV\SambiladMidtermSeatwork\SambiladMidtermSeatwork\bin\Debug\SambiladMidtermSeatwork.exe
+D:\APPSDEV\SambiladMidtermSeatwork\SambiladMidtermSeatwork\bin\Debug\SambiladMidtermSeatwork.pdb
+D:\APPSDEV\SambiladMidtermSeatwork\SambiladMidtermSeatwork\obj\Debug\SambiladMidtermSeatwork.csproj.AssemblyReference.cache
+D:\APPSDEV\SambiladMidtermSeatwork\SambiladMidtermSeatwork\obj\Debug\SambiladMidtermSeatwork.Form1.resources
+D:\APPSDEV\SambiladMidtermSeatwork\SambiladMidtermSeatwork\obj\Debug\SambiladMidtermSeatwork.Properties.Resources.resources
+D:\APPSDEV\SambiladMidtermSeatwork\SambiladMidtermSeatwork\obj\Debug\SambiladMidtermSeatwork.csproj.GenerateResource.cache
+D:\APPSDEV\SambiladMidtermSeatwork\SambiladMidtermSeatwork\obj\Debug\SambiladMidtermSeatwork.csproj.CoreCompileInputs.cache
+D:\APPSDEV\SambiladMidtermSeatwork\SambiladMidtermSeatwork\obj\Debug\SambiladMidtermSeatwork.exe
+D:\APPSDEV\SambiladMidtermSeatwork\SambiladMidtermSeatwork\obj\Debug\SambiladMidtermSeatwork.pdb
